@@ -16,4 +16,16 @@ Multi-Dimensional Analysis
 3. Demographic Segmentation: Filter by age group, gender, and device type
 
 4. Transaction Categorization: Analyze spending by purpose and merchant type
-5. 
+
+Financial Tracking
+
+1. Monthly balance monitoring with dual visualization (line and column charts)
+
+2. Transaction amount analysis with remaining balance tracking
+
+3. Transaction purpose analysis (shopping, bills, transfers, etc.)
+
+4. Age group spending behaviors
+
+   
+
