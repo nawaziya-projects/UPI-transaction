@@ -1,4 +1,4 @@
-#📊 UPI Transaction Analytics Dashboard
+📊 UPI Transaction Analytics Dashboard
 
 🌟 Overview
 
@@ -40,5 +40,13 @@ User Behavior Analytics
 
 
 🛠️ Technical Implementation
+
+Data Sources: UPI transaction records, user demographic data, merchant databases
+
+Data Modeling: Star schema implementation for optimized query performance
+
+ETL Processes: Automated data pipeline for monthly transaction processing
+
+
 
 
