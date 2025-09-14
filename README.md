@@ -27,5 +27,18 @@ Financial Tracking
 
 4. Age group spending behaviors
 
-   
+
+User Behavior Analytics
+
+1. Device type usage patterns (mobile, desktop, etc.)
+
+2. Merchant category preferences
+
+3. Transaction purpose analysis (shopping, bills, transfers, etc.)
+
+4. Age group spending behaviors
+
+
+🛠️ Technical Implementation
+
 
