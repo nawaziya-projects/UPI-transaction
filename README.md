@@ -48,5 +48,17 @@ Data Modeling: Star schema implementation for optimized query performance
 ETL Processes: Automated data pipeline for monthly transaction processing
 
 
+📊 Dashboard Components
+
+1. Control Panel
+
+   Dynamic filters for Bank Name (Sent/Received), City, Device Type, Gender
+
+   Age group categorization with customizable ranges
+
+   Merchant and purpose-based filtering
+
+
+
 
 
