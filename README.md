@@ -58,6 +58,16 @@ ETL Processes: Automated data pipeline for monthly transaction processing
 
    Merchant and purpose-based filtering
 
+2. Financial Overview
+
+   Monthly balance tracking (January-December 2024)
+
+   Transaction amount trends with comparative analysis
+
+   Balance forecasting visualization
+
+   
+
 
 
 
