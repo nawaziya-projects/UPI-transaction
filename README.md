@@ -66,6 +66,21 @@ ETL Processes: Automated data pipeline for monthly transaction processing
 
    Balance forecasting visualization
 
+3. Geographic Analysis
+
+   City-wise transaction breakdown
+
+   Cross-city transaction flow mapping
+
+4. Demographic Insights
+
+   Age group spending behaviors
+
+   Gender-based transaction patterns
+
+   Device preference analysis
+
+
    
 
 
